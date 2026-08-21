@@ -100,7 +100,7 @@ A curated list of early exiting.
 
 9. BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression. EACL 2021.
 
-   *Ji Xin, Raphael Tang, Yaoliang Yu, Jimmy Lin.* \[[pdf](https://aclanthology.org/2021.eacl-main.8.pdf)] \[[code](https://github.com/castorini/berxit) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2021-01-18]
+   *Ji Xin, Raphael Tang, Yaoliang Yu, Jimmy Lin.* \[[pdf](https://aclanthology.org/2021.eacl-main.8.pdf)] \[[code](https://github.com/castorini/berxit) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2021-01-18]
 
 10. Accelerating BERT Inference for Sequence Labeling via Early-Exit. ACL 2021.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
