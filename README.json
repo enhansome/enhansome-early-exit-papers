@@ -1,7 +1,544 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models. arxiv 2024.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 782269816,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T23:53:10Z",
+                    "owner": "kyegomez",
+                    "repo": "Mixture-of-Depths",
+                    "stars": 123
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models. arxiv 2024.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 728574269,
+                    "language": "Python",
+                    "last_commit": "2024-06-14T05:35:26Z",
+                    "owner": "pan-x-c",
+                    "repo": "EE-LLM",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism. ICML 2024.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 728574269,
+                    "language": "Python",
+                    "last_commit": "2024-06-14T05:35:26Z",
+                    "owner": "pan-x-c",
+                    "repo": "EE-LLM",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting. arxiv 2024.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 793879095,
+                    "language": "Python",
+                    "last_commit": "2024-06-26T02:37:10Z",
+                    "owner": "Equationliu",
+                    "repo": "Kangaroo",
+                    "stars": 73
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding. EMNLP 2023.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658546001,
+                    "language": "Python",
+                    "last_commit": "2024-09-28T05:44:30Z",
+                    "owner": "raymin0223",
+                    "repo": "fast_robust_early_exit",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Accelerating Inference in Large Language Models with a Unified Layer Skipping Strategy. arxiv 2024.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784701898,
+                    "language": "Python",
+                    "last_commit": "2024-04-11T09:22:22Z",
+                    "owner": "Adaxry",
+                    "repo": "Unified_Layer_Skipping",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding. NAACL 2024.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 783153830,
+                    "language": "Python",
+                    "last_commit": "2026-02-05T01:46:14Z",
+                    "owner": "oujieww",
+                    "repo": "ANPD",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "for LLM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FastBERT: a Self-distilling BERT with Adaptive Inference Time. ACL 2020.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252982952,
+                    "language": "Python",
+                    "last_commit": "2021-10-29T08:01:40Z",
+                    "owner": "autoliuweijie",
+                    "repo": "FastBERT",
+                    "stars": 606
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference. ACL 2020.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255128313,
+                    "language": "Python",
+                    "last_commit": "2022-03-25T02:32:48Z",
+                    "owner": "castorini",
+                    "repo": "DeeBERT",
+                    "stars": 161
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BERT Loses Patience: Fast and Robust Inference with Early Exit. NeurIPS 2020.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 270056715,
+                    "language": "Python",
+                    "last_commit": "2021-06-19T11:40:59Z",
+                    "owner": "JetRunner",
+                    "repo": "PABEE",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression. EACL 2021.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330801477,
+                    "language": "Python",
+                    "last_commit": "2021-01-18T22:27:47Z",
+                    "owner": "castorini",
+                    "repo": "berxit",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RomeBERT: Robust Training of Multi-Exit BERT. Preprint Jan 2021.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 287500996,
+                    "language": "Python",
+                    "last_commit": "2021-05-06T07:10:13Z",
+                    "owner": "romebert",
+                    "repo": "RomeBERT",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SkipBERT: Efficient Inference with Shallow Layer Skipping. ACL 2022",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 465236734,
+                    "language": "Python",
+                    "last_commit": "2022-06-22T13:03:52Z",
+                    "owner": "LorrinWWW",
+                    "repo": "SkipBERT",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Consistent Accelerated Inference via Confident Adaptive Transformers. EMNLP 2021.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 358692341,
+                    "language": "Python",
+                    "last_commit": "2021-04-18T00:47:42Z",
+                    "owner": "TalSchuster",
+                    "repo": "CATs",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade. EMNLP 2021.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 400740986,
+                    "language": "Python",
+                    "last_commit": "2022-03-30T12:58:15Z",
+                    "owner": "lancopku",
+                    "repo": "CascadeBERT",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models. NAACL 2021.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352609093,
+                    "language": "Python",
+                    "last_commit": "2021-04-19T01:30:56Z",
+                    "owner": "lancopku",
+                    "repo": "Early-Exit",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting, NAACL Findings 2022.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 487510222,
+                    "language": "Python",
+                    "last_commit": "2022-05-01T10:55:37Z",
+                    "owner": "michael-wzhu",
+                    "repo": "PCEE-BERT",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Finding the SWEET Spot: Analysis and Improvement of Adaptive Inference in Low Resource Settings. ACL 2023.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 593595497,
+                    "language": "Python",
+                    "last_commit": "2025-01-14T09:24:42Z",
+                    "owner": "schwartz-lab-NLP",
+                    "repo": "SWEET",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EBERT: Efficient BERT Inference with Dynamic Structured Pruning. ACL Findings2021.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 421731566,
+                    "language": "Python",
+                    "last_commit": "2021-12-22T08:05:47Z",
+                    "owner": "CAS-CLab",
+                    "repo": "EBERT",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unsupervised Early Exit in DNNs with Multiple Exits. AI-ML systems 2022",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 513471481,
+                    "language": "Python",
+                    "last_commit": "2022-08-15T19:09:37Z",
+                    "owner": "MLiONS",
+                    "repo": "MutiExitDNNs",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dynamic Methods"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Reducing Transformer Depth on Demand with Structured Dropout, ICLR 2020.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 101782647,
+                    "language": "Python",
+                    "last_commit": "2025-09-30T11:16:06Z",
+                    "owner": "facebookresearch",
+                    "repo": "fairseq",
+                    "stars": 32235
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation. Findings of ACL 2022.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 464322286,
+                    "language": "Python",
+                    "last_commit": "2022-09-30T15:37:07Z",
+                    "owner": "txsun1997",
+                    "repo": "HashEE",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Static Methods"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NLP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Self-Distillation Towards Efficient and Compact Neural Networks. TPAMI 2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270976376,
+                "language": "Python",
+                "last_commit": "2020-11-02T15:01:39Z",
+                "owner": "ArchipLab-LinfengZhang",
+                "repo": "pytorch-self-distillation-final",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improved Techniques for Training Adaptive Deep Networks. ICCV 2019",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199412881,
+                "language": "Python",
+                "last_commit": "2019-12-26T09:07:31Z",
+                "owner": "kalviny",
+                "repo": "IMTA",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic Perceiver for Efficient Visual Recognition. ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655972173,
+                "language": "Python",
+                "last_commit": "2023-11-16T16:17:57Z",
+                "owner": "LeapLabTHU",
+                "repo": "Dynamic_Perceiver",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shallow-Deep Networks: Understanding and Mitigating Network Overthinking. ICML 2019",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191242475,
+                "language": "Python",
+                "last_commit": "2023-12-22T05:29:05Z",
+                "owner": "yigitcankaya",
+                "repo": "Shallow-Deep-Networks",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Weight Samples for Dynamic Early-Exiting Networks. ECCV 2022",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514519353,
+                "language": "Python",
+                "last_commit": "2023-09-28T03:30:21Z",
+                "owner": "LeapLabTHU",
+                "repo": "L2W-DEN",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to stop while learning to predict. ICML 2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274229408,
+                "language": "Python",
+                "last_commit": "2022-11-02T02:09:39Z",
+                "owner": "xinshi-chen",
+                "repo": "l2stop",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeeCap: Dynamic Early Exiting for Efficient Image Captioning. CVPR 2022",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411912057,
+                "language": "Python",
+                "last_commit": "2022-10-25T01:51:36Z",
+                "owner": "feizc",
+                "repo": "DeeCap",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zero Time Waste: Recycling Predictions in Early Exit Neural Networks. NeurIPS 2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374610150,
+                "language": "Python",
+                "last_commit": "2023-12-19T17:34:29Z",
+                "owner": "gmum",
+                "repo": "Zero-Time-Waste",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meta-GF: Training Dynamic-Depth Neural Networks Harmoniously. ECCV 2022",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515207240,
+                "language": "Python",
+                "last_commit": "2023-12-15T09:36:16Z",
+                "owner": "SYVAE",
+                "repo": "MetaGF",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boosted Dynamic Neural Networks. AAAI 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568653594,
+                "language": "Python",
+                "last_commit": "2022-12-01T04:45:19Z",
+                "owner": "SHI-Labs",
+                "repo": "Boosted-Dynamic-Networks",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Window-Based Early-Exit Cascades for Uncertainty Estimation: When Deep Ensembles are More Efficient than Single Models. ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613890735,
+                "language": "Python",
+                "last_commit": "2023-08-18T15:23:38Z",
+                "owner": "Guoxoug",
+                "repo": "window-early-exit",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CV"
+        }
+      ],
+      "title": "Paper"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:04:06.550Z",
+    "last_updated": "2026-08-24T14:45:20.640Z",
     "original_repository": "falcon-xu/early-exit-papers",
     "original_repository_id": 673271248,
     "original_repository_sha": "18bd16b565b23dc66d29fd67e2f71a6da01051a0",
