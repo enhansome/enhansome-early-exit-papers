@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of the paper: \"Mixture-of-Depths: Dynamically allocating compute in transformer-based language models\"",
+                    "homepage": null,
                     "id": 782269816,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T23:53:10Z",
+                    "open_issues": 7,
                     "owner": "kyegomez",
                     "repo": "Mixture-of-Depths",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EE-LLM is a framework for large-scale training and inference of early-exit (EE) large language models (LLMs).",
+                    "homepage": null,
                     "id": 728574269,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-14T05:35:26Z",
+                    "open_issues": 7,
                     "owner": "pan-x-c",
                     "repo": "EE-LLM",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EE-LLM is a framework for large-scale training and inference of early-exit (EE) large language models (LLMs).",
+                    "homepage": null,
                     "id": 728574269,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-14T05:35:26Z",
+                    "open_issues": 7,
                     "owner": "pan-x-c",
                     "repo": "EE-LLM",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -62,12 +77,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] The official implementation of \"Kangaroo: Lossless Self-Speculative Decoding for Accelerating LLMs via Double Early Exiting\"",
+                    "homepage": "https://openreview.net/forum?id=lT3oc04mDp&noteId=uJrViipaXj",
                     "id": 793879095,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-26T02:37:10Z",
+                    "open_issues": 0,
                     "owner": "Equationliu",
                     "repo": "Kangaroo",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -78,12 +98,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding (EMNLP 2023 Long)",
+                    "homepage": null,
                     "id": 658546001,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-28T05:44:30Z",
+                    "open_issues": 0,
                     "owner": "raymin0223",
                     "repo": "fast_robust_early_exit",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "autoregressive-models",
+                      "early-exiting",
+                      "efficient-inference",
+                      "llms",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -94,12 +125,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 784701898,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-11T09:22:22Z",
+                    "open_issues": 0,
                     "owner": "Adaxry",
                     "repo": "Unified_Layer_Skipping",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -110,12 +146,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 783153830,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-02-05T01:46:14Z",
+                    "open_issues": 0,
                     "owner": "oujieww",
                     "repo": "ANPD",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 }
@@ -133,12 +174,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The score code of FastBERT (ACL2020)",
+                    "homepage": "https://www.aclweb.org/anthology/2020.acl-main.537/",
                     "id": 252982952,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-29T08:01:40Z",
+                    "open_issues": 31,
                     "owner": "autoliuweijie",
                     "repo": "FastBERT",
-                    "stars": 606
+                    "stars": 606,
+                    "topics": [
+                      "acl2020",
+                      "bert",
+                      "fastbert"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -149,12 +199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference",
+                    "homepage": null,
                     "id": 255128313,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-03-25T02:32:48Z",
+                    "open_issues": 3,
                     "owner": "castorini",
                     "repo": "DeeBERT",
-                    "stars": 161
+                    "stars": 161,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -165,12 +220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"BERT Loses Patience: Fast and Robust Inference with Early Exit\".",
+                    "homepage": null,
                     "id": 270056715,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-19T11:40:59Z",
+                    "open_issues": 3,
                     "owner": "JetRunner",
                     "repo": "PABEE",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -181,12 +241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 330801477,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-01-18T22:27:47Z",
+                    "open_issues": 1,
                     "owner": "castorini",
                     "repo": "berxit",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -197,12 +262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 287500996,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-05-06T07:10:13Z",
+                    "open_issues": 0,
                     "owner": "romebert",
                     "repo": "RomeBERT",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -213,12 +283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code associated with the paper **SkipBERT: Efficient Inference with Shallow Layer Skipping**, at ACL 2022",
+                    "homepage": null,
                     "id": 465236734,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-06-22T13:03:52Z",
+                    "open_issues": 1,
                     "owner": "LorrinWWW",
                     "repo": "SkipBERT",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -229,12 +304,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Confident Adaptive Transformers",
+                    "homepage": null,
                     "id": 358692341,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-18T00:47:42Z",
+                    "open_issues": 3,
                     "owner": "TalSchuster",
                     "repo": "CATs",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -245,12 +325,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for CascadeBERT, Findings of EMNLP 2021",
+                    "homepage": null,
                     "id": 400740986,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-30T12:58:15Z",
+                    "open_issues": 0,
                     "owner": "lancopku",
                     "repo": "CascadeBERT",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "nlp",
+                      "pre-trained-language-models",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -261,12 +350,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper: A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models.",
+                    "homepage": null,
                     "id": 352609093,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-19T01:30:56Z",
+                    "open_issues": 0,
                     "owner": "lancopku",
                     "repo": "Early-Exit",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -277,12 +371,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 487510222,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-05-01T10:55:37Z",
+                    "open_issues": 0,
                     "owner": "michael-wzhu",
                     "repo": "PCEE-BERT",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -293,12 +392,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Separating Weights for Early-Exit Transformers",
+                    "homepage": null,
                     "id": 593595497,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-14T09:24:42Z",
+                    "open_issues": 1,
                     "owner": "schwartz-lab-NLP",
                     "repo": "SWEET",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -309,12 +413,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2021 Findings] EBERT: Efficient BERT Inference with Dynamic Structured Pruning",
+                    "homepage": null,
                     "id": 421731566,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-22T08:05:47Z",
+                    "open_issues": 2,
                     "owner": "CAS-CLab",
                     "repo": "EBERT",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -325,12 +434,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 513471481,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-15T19:09:37Z",
+                    "open_issues": 0,
                     "owner": "MLiONS",
                     "repo": "MutiExitDNNs",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 }
@@ -348,12 +462,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                    "homepage": null,
                     "id": 101782647,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-30T11:16:06Z",
+                    "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32232
+                    "stars": 32232,
+                    "topics": [
+                      "artificial-intelligence",
+                      "python",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 },
@@ -364,12 +487,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for paper \"A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation\".",
+                    "homepage": null,
                     "id": 464322286,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-09-30T15:37:07Z",
+                    "open_issues": 0,
                     "owner": "txsun1997",
                     "repo": "HashEE",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
                 }
@@ -392,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270976376,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-02T15:01:39Z",
+                "open_issues": 5,
                 "owner": "ArchipLab-LinfengZhang",
                 "repo": "pytorch-self-distillation-final",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -408,12 +541,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 199412881,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-12-26T09:07:31Z",
+                "open_issues": 2,
                 "owner": "kalviny",
                 "repo": "IMTA",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "adaptive-inference",
+                  "deeplearning",
+                  "msdnet",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -424,12 +567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of Dynamic Perceiver",
+                "homepage": null,
                 "id": 655972173,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-16T16:17:57Z",
+                "open_issues": 2,
                 "owner": "LeapLabTHU",
                 "repo": "Dynamic_Perceiver",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -440,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code for ICML 2019 Paper \"Shallow-Deep Networks: Understanding and Mitigating Network Overthinking\"",
+                "homepage": null,
                 "id": 191242475,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-22T05:29:05Z",
+                "open_issues": 0,
                 "owner": "yigitcankaya",
                 "repo": "Shallow-Deep-Networks",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -456,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Learning to Weight Samples for Dynamic Early-exiting Networks",
+                "homepage": null,
                 "id": 514519353,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-28T03:30:21Z",
+                "open_issues": 0,
                 "owner": "LeapLabTHU",
                 "repo": "L2W-DEN",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -472,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning To Stop While Learning To Predict",
+                "homepage": null,
                 "id": 274229408,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-02T02:09:39Z",
+                "open_issues": 2,
                 "owner": "xinshi-chen",
                 "repo": "l2stop",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -488,12 +651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Early Exit for Image Captioning",
+                "homepage": null,
                 "id": 411912057,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-25T01:51:36Z",
+                "open_issues": 4,
                 "owner": "feizc",
                 "repo": "DeeCap",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -504,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 374610150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-19T17:34:29Z",
+                "open_issues": 0,
                 "owner": "gmum",
                 "repo": "Zero-Time-Waste",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -520,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 515207240,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-15T09:36:16Z",
+                "open_issues": 1,
                 "owner": "SYVAE",
                 "repo": "MetaGF",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -536,12 +714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Boosted Dynamic Neural Networks, AAAI 2023",
+                "homepage": "https://arxiv.org/abs/2211.16726",
                 "id": 568653594,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-01T04:45:19Z",
+                "open_issues": 1,
                 "owner": "SHI-Labs",
                 "repo": "Boosted-Dynamic-Networks",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             },
@@ -552,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 613890735,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-18T15:23:38Z",
+                "open_issues": 0,
                 "owner": "Guoxoug",
                 "repo": "window-early-exit",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:27.600Z"
             }
@@ -571,15 +759,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:50:27.600Z",
+    "last_updated": "2026-08-29T05:02:02.159Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
+      "homepage": null,
       "id": 673271248,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-08-21T09:19:24Z",
+      "open_issues": 0,
       "owner": "falcon-xu",
       "repo": "early-exit-papers",
-      "stars": 74
+      "stars": 74,
+      "topics": [
+        "awesome-list",
+        "cnn",
+        "computer-vision",
+        "early-exit",
+        "early-exiting",
+        "gpt",
+        "llm",
+        "nlp",
+        "paper-list",
+        "survey"
+      ]
     },
     "original_repository_sha": "18bd16b565b23dc66d29fd67e2f71a6da01051a0",
     "enhanced_repository": "enhansome/enhansome-early-exit-papers",
