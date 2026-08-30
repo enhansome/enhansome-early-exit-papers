@@ -19,8 +19,8 @@
                     "id": 782269816,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-03T23:53:10Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-08-29T16:49:18Z",
+                    "open_issues": 5,
                     "owner": "kyegomez",
                     "repo": "Mixture-of-Depths",
                     "stars": 123,
@@ -471,7 +471,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32232,
+                    "stars": 32231,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:29:02.833Z",
+    "last_updated": "2026-08-30T14:25:23.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",

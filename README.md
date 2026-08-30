@@ -10,7 +10,7 @@ A curated list of early exiting.
 
 1. Mixture-of-Depths: Dynamically allocating compute in transformer-based language models. arxiv 2024.
 
-   *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro*. \[[pdf](https://arxiv.org/abs/2404.02258)] \[[code](https://github.com/kyegomez/Mixture-of-Depths) ⭐ 123 | 🐛 7 | 🌐 Python | 📅 2026-08-03]
+   *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro*. \[[pdf](https://arxiv.org/abs/2404.02258)] \[[code](https://github.com/kyegomez/Mixture-of-Depths) ⭐ 123 | 🐛 5 | 🌐 Python | 📅 2026-08-29]
 
 2. EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models. arxiv 2024.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
