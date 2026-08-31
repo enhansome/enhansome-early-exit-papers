@@ -23,7 +23,7 @@
                     "open_issues": 5,
                     "owner": "kyegomez",
                     "repo": "Mixture-of-Depths",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
@@ -471,7 +471,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32231,
+                    "stars": 32228,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:25:23.414Z",
+    "last_updated": "2026-08-31T17:04:11.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
