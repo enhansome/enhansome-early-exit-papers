@@ -10,7 +10,7 @@ A curated list of early exiting.
 
 1. Mixture-of-Depths: Dynamically allocating compute in transformer-based language models. arxiv 2024.
 
-   *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro*. \[[pdf](https://arxiv.org/abs/2404.02258)] \[[code](https://github.com/kyegomez/Mixture-of-Depths) ⭐ 124 | 🐛 5 | 🌐 Python | 📅 2026-08-29]
+   *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro*. \[[pdf](https://arxiv.org/abs/2404.02258)] \[[code](https://github.com/kyegomez/Mixture-of-Depths) ⭐ 124 | 🐛 6 | 🌐 Python | 📅 2026-08-31]
 
 2. EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models. arxiv 2024.
 
@@ -224,7 +224,7 @@ A curated list of early exiting.
 
 9. Meta-GF: Training Dynamic-Depth Neural Networks Harmoniously. ECCV 2022
 
-   *Yi Sun, Jian Li, Xin Xu*. \[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_41)] \[[code](https://github.com/SYVAE/MetaGF) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2023-12-15]
+   *Yi Sun, Jian Li, Xin Xu*. \[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_41)] \[[code](https://github.com/SYVAE/MetaGF) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2023-12-15]
 
 10. Boosted Dynamic Neural Networks. AAAI 2023.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
