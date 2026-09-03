@@ -220,7 +220,7 @@ A curated list of early exiting.
 
 8. Zero Time Waste: Recycling Predictions in Early Exit Neural Networks. NeurIPS 2021
 
-   Maciej Wołczyk, Bartosz Wójcik, Klaudia Bałazy, Igor Podolak, Jacek Tabor, Marek Śmieja, Tomasz Trzciński \[[pdf](https://arxiv.org/abs/2106.05409)] \[[code](https://github.com/gmum/Zero-Time-Waste) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-12-19]
+   Maciej Wołczyk, Bartosz Wójcik, Klaudia Bałazy, Igor Podolak, Jacek Tabor, Marek Śmieja, Tomasz Trzciński \[[pdf](https://arxiv.org/abs/2106.05409)] \[[code](https://github.com/gmum/Zero-Time-Waste) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-12-19]
 
 9. Meta-GF: Training Dynamic-Depth Neural Networks Harmoniously. ECCV 2022
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
