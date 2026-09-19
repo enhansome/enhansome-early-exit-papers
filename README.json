@@ -86,7 +86,7 @@
                     "open_issues": 0,
                     "owner": "Equationliu",
                     "repo": "Kangaroo",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
@@ -471,7 +471,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32222,
+                    "stars": 32223,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:36:09.845Z",
+    "last_updated": "2026-09-19T13:10:16.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",

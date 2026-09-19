@@ -22,7 +22,7 @@ A curated list of early exiting.
 
 4. Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting. arxiv 2024.
 
-   *Fangcheng Liu, Yehui Tang, Zhenhua Liu, Yunsheng Ni, Kai Han, Yunhe Wang.* \[[pdf](https://arxiv.org/abs/2404.18911)] \[[code](https://github.com/Equationliu/Kangaroo) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2024-06-26]
+   *Fangcheng Liu, Yehui Tang, Zhenhua Liu, Yunsheng Ni, Kai Han, Yunhe Wang.* \[[pdf](https://arxiv.org/abs/2404.18911)] \[[code](https://github.com/Equationliu/Kangaroo) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2024-06-26]
 
 5. Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding. EMNLP 2023.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
