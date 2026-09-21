@@ -208,7 +208,7 @@
                     "open_issues": 3,
                     "owner": "castorini",
                     "repo": "DeeBERT",
-                    "stars": 161,
+                    "stars": 160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:27.600Z"
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:35:03.449Z",
+    "last_updated": "2026-09-21T15:53:48.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",

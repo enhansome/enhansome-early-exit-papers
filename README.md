@@ -72,7 +72,7 @@ A curated list of early exiting.
 
 2. DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference. ACL 2020.
 
-   *Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, and Jimmy Lin.* \[[pdf](https://aclanthology.org/2020.acl-main.204.pdf)] \[[code](https://github.com/castorini/DeeBERT) ⭐ 161 | 🐛 3 | 🌐 Python | 📅 2022-03-25]
+   *Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, and Jimmy Lin.* \[[pdf](https://aclanthology.org/2020.acl-main.204.pdf)] \[[code](https://github.com/castorini/DeeBERT) ⭐ 160 | 🐛 3 | 🌐 Python | 📅 2022-03-25]
 
 3. BERT Loses Patience: Fast and Robust Inference with Early Exit. NeurIPS 2020.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
