@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models. arxiv 2024.",
-                  "description": null,
+                  "description": "kyegomez/Mixture-of-Depths",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models. arxiv 2024.",
-                  "description": null,
+                  "description": "pan-x-c/EE-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism. ICML 2024.",
-                  "description": null,
+                  "description": "pan-x-c/EE-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -73,7 +73,7 @@
                 {
                   "node_type": "item",
                   "title": "Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting. arxiv 2024.",
-                  "description": null,
+                  "description": "Equationliu/Kangaroo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -94,7 +94,7 @@
                 {
                   "node_type": "item",
                   "title": "Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding. EMNLP 2023.",
-                  "description": null,
+                  "description": "raymin0223/fast_robust_early_exit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -121,7 +121,7 @@
                 {
                   "node_type": "item",
                   "title": "Accelerating Inference in Large Language Models with a Unified Layer Skipping Strategy. arxiv 2024.",
-                  "description": null,
+                  "description": "Adaxry/Unified_Layer_Skipping",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -142,7 +142,7 @@
                 {
                   "node_type": "item",
                   "title": "Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding. NAACL 2024.",
-                  "description": null,
+                  "description": "oujieww/ANPD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -170,7 +170,7 @@
                 {
                   "node_type": "item",
                   "title": "FastBERT: a Self-distilling BERT with Adaptive Inference Time. ACL 2020.",
-                  "description": null,
+                  "description": "autoliuweijie/FastBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -195,7 +195,7 @@
                 {
                   "node_type": "item",
                   "title": "DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference. ACL 2020.",
-                  "description": null,
+                  "description": "castorini/DeeBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -216,7 +216,7 @@
                 {
                   "node_type": "item",
                   "title": "BERT Loses Patience: Fast and Robust Inference with Early Exit. NeurIPS 2020.",
-                  "description": null,
+                  "description": "JetRunner/PABEE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -237,7 +237,7 @@
                 {
                   "node_type": "item",
                   "title": "BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression. EACL 2021.",
-                  "description": null,
+                  "description": "castorini/berxit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -258,7 +258,7 @@
                 {
                   "node_type": "item",
                   "title": "RomeBERT: Robust Training of Multi-Exit BERT. Preprint Jan 2021.",
-                  "description": null,
+                  "description": "romebert/RomeBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -279,7 +279,7 @@
                 {
                   "node_type": "item",
                   "title": "SkipBERT: Efficient Inference with Shallow Layer Skipping. ACL 2022",
-                  "description": null,
+                  "description": "LorrinWWW/SkipBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -300,7 +300,7 @@
                 {
                   "node_type": "item",
                   "title": "Consistent Accelerated Inference via Confident Adaptive Transformers. EMNLP 2021.",
-                  "description": null,
+                  "description": "TalSchuster/CATs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -321,7 +321,7 @@
                 {
                   "node_type": "item",
                   "title": "CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade. EMNLP 2021.",
-                  "description": null,
+                  "description": "lancopku/CascadeBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -346,7 +346,7 @@
                 {
                   "node_type": "item",
                   "title": "A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models. NAACL 2021.",
-                  "description": null,
+                  "description": "lancopku/Early-Exit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -367,7 +367,7 @@
                 {
                   "node_type": "item",
                   "title": "PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting, NAACL Findings 2022.",
-                  "description": null,
+                  "description": "michael-wzhu/PCEE-BERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -388,7 +388,7 @@
                 {
                   "node_type": "item",
                   "title": "Finding the SWEET Spot: Analysis and Improvement of Adaptive Inference in Low Resource Settings. ACL 2023.",
-                  "description": null,
+                  "description": "schwartz-lab-NLP/SWEET",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -409,7 +409,7 @@
                 {
                   "node_type": "item",
                   "title": "EBERT: Efficient BERT Inference with Dynamic Structured Pruning. ACL Findings2021.",
-                  "description": null,
+                  "description": "CAS-CLab/EBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -430,7 +430,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Early Exit in DNNs with Multiple Exits. AI-ML systems 2022",
-                  "description": null,
+                  "description": "MLiONS/MutiExitDNNs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -458,7 +458,7 @@
                 {
                   "node_type": "item",
                   "title": "Reducing Transformer Depth on Demand with Structured Dropout, ICLR 2020.",
-                  "description": null,
+                  "description": "facebookresearch/fairseq",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -471,7 +471,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32215,
+                    "stars": 32214,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -483,7 +483,7 @@
                 {
                   "node_type": "item",
                   "title": "A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation. Findings of ACL 2022.",
-                  "description": null,
+                  "description": "txsun1997/HashEE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "Self-Distillation Towards Efficient and Compact Neural Networks. TPAMI 2021",
-              "description": null,
+              "description": "ArchipLab-LinfengZhang/pytorch-self-distillation-final",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "Improved Techniques for Training Adaptive Deep Networks. ICCV 2019",
-              "description": null,
+              "description": "kalviny/IMTA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,7 +563,7 @@
             {
               "node_type": "item",
               "title": "Dynamic Perceiver for Efficient Visual Recognition. ICCV 2023.",
-              "description": null,
+              "description": "LeapLabTHU/Dynamic_Perceiver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -584,7 +584,7 @@
             {
               "node_type": "item",
               "title": "Shallow-Deep Networks: Understanding and Mitigating Network Overthinking. ICML 2019",
-              "description": null,
+              "description": "yigitcankaya/Shallow-Deep-Networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -605,7 +605,7 @@
             {
               "node_type": "item",
               "title": "Learning to Weight Samples for Dynamic Early-Exiting Networks. ECCV 2022",
-              "description": null,
+              "description": "LeapLabTHU/L2W-DEN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -626,7 +626,7 @@
             {
               "node_type": "item",
               "title": "Learning to stop while learning to predict. ICML 2021",
-              "description": null,
+              "description": "xinshi-chen/l2stop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,7 +647,7 @@
             {
               "node_type": "item",
               "title": "DeeCap: Dynamic Early Exiting for Efficient Image Captioning. CVPR 2022",
-              "description": null,
+              "description": "feizc/DeeCap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "Zero Time Waste: Recycling Predictions in Early Exit Neural Networks. NeurIPS 2021",
-              "description": null,
+              "description": "gmum/Zero-Time-Waste",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +689,7 @@
             {
               "node_type": "item",
               "title": "Meta-GF: Training Dynamic-Depth Neural Networks Harmoniously. ECCV 2022",
-              "description": null,
+              "description": "SYVAE/MetaGF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -710,7 +710,7 @@
             {
               "node_type": "item",
               "title": "Boosted Dynamic Neural Networks. AAAI 2023.",
-              "description": null,
+              "description": "SHI-Labs/Boosted-Dynamic-Networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -731,7 +731,7 @@
             {
               "node_type": "item",
               "title": "Window-Based Early-Exit Cascades for Uncertainty Estimation: When Deep Ensembles are More Efficient than Single Models. ICCV 2023.",
-              "description": null,
+              "description": "Guoxoug/window-early-exit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:49:23.717Z",
+    "last_updated": "2026-10-03T04:46:15.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
