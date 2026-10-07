@@ -200,7 +200,7 @@ A curated list of early exiting.
 
 3. Dynamic Perceiver for Efficient Visual Recognition. ICCV 2023.
 
-   *Yizeng Han, Dongchen Han, Zeyu Liu, Yulin Wang, Xuran Pan, Yifan Pu, Chao Deng, Junlan Feng, Shiji Song, Gao Huang* \[[pdf](https://arxiv.org/pdf/2306.11248.pdf)] \[[code](https://github.com/leaplabthu/dynamic_perceiver) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2023-11-16]
+   *Yizeng Han, Dongchen Han, Zeyu Liu, Yulin Wang, Xuran Pan, Yifan Pu, Chao Deng, Junlan Feng, Shiji Song, Gao Huang* \[[pdf](https://arxiv.org/pdf/2306.11248.pdf)] \[[code](https://github.com/leaplabthu/dynamic_perceiver) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2023-11-16]
 
 4. Shallow-Deep Networks: Understanding and Mitigating Network Overthinking. ICML 2019
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
