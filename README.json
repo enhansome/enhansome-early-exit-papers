@@ -19,8 +19,8 @@
                     "id": 782269816,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T23:54:25Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-10T17:24:43Z",
+                    "open_issues": 3,
                     "owner": "kyegomez",
                     "repo": "Mixture-of-Depths",
                     "stars": 124,
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:22:53.551Z",
+    "last_updated": "2026-10-11T15:41:15.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
