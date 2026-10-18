@@ -68,7 +68,7 @@ A curated list of early exiting.
 
 1. FastBERT: a Self-distilling BERT with Adaptive Inference Time. ACL 2020.
 
-   *Weijie Liu, Peng Zhou, Zhiruo Wang, Zhe Zhao, Haotang Deng, and Qi Ju.* \[[pdf](https://aclanthology.org/2020.acl-main.537.pdf)] \[[code](https://github.com/autoliuweijie/FastBERT) ⭐ 606 | 🐛 31 | 🌐 Python | 📅 2021-10-29]
+   *Weijie Liu, Peng Zhou, Zhiruo Wang, Zhe Zhao, Haotang Deng, and Qi Ju.* \[[pdf](https://aclanthology.org/2020.acl-main.537.pdf)] \[[code](https://github.com/autoliuweijie/FastBERT) ⭐ 605 | 🐛 31 | 🌐 Python | 📅 2021-10-29]
 
 2. DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference. ACL 2020.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
