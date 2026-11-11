@@ -471,7 +471,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32204,
+                    "stars": 32205,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:02:14.678Z",
+    "last_updated": "2026-11-11T17:08:15.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
