@@ -468,10 +468,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-09-30T11:16:06Z",
-                    "open_issues": 1352,
+                    "open_issues": 1351,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32205,
+                    "stars": 32208,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:08:15.402Z",
+    "last_updated": "2026-11-12T17:35:37.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
