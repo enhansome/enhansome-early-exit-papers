@@ -183,7 +183,7 @@
                     "open_issues": 31,
                     "owner": "autoliuweijie",
                     "repo": "FastBERT",
-                    "stars": 606,
+                    "stars": 605,
                     "topics": [
                       "acl2020",
                       "bert",
@@ -471,7 +471,7 @@
                     "open_issues": 1351,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32204,
+                    "stars": 32205,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:16:11.108Z",
+    "last_updated": "2026-11-20T17:47:52.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of early exiting (LLM, CV, NLP, etc)",
