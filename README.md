@@ -10,7 +10,7 @@ A curated list of early exiting.
 
 1. Mixture-of-Depths: Dynamically allocating compute in transformer-based language models. arxiv 2024.
 
-   *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro*. \[[pdf](https://arxiv.org/abs/2404.02258)] \[[code](https://github.com/kyegomez/Mixture-of-Depths) ⭐ 124 | 🐛 5 | 🌐 Python | 📅 2026-11-09]
+   *David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro*. \[[pdf](https://arxiv.org/abs/2404.02258)] \[[code](https://github.com/kyegomez/Mixture-of-Depths) ⭐ 124 | 🐛 4 | 🌐 Python | 📅 2026-11-09]
 
 2. EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models. arxiv 2024.
 
@@ -72,7 +72,7 @@ A curated list of early exiting.
 
 2. DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference. ACL 2020.
 
-   *Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, and Jimmy Lin.* \[[pdf](https://aclanthology.org/2020.acl-main.204.pdf)] \[[code](https://github.com/castorini/DeeBERT) ⭐ 160 | 🐛 3 | 🌐 Python | 📅 2022-03-25]
+   *Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, and Jimmy Lin.* \[[pdf](https://aclanthology.org/2020.acl-main.204.pdf)] \[[code](https://github.com/castorini/DeeBERT) ⭐ 161 | 🐛 3 | 🌐 Python | 📅 2022-03-25]
 
 3. BERT Loses Patience: Fast and Robust Inference with Early Exit. NeurIPS 2020.
 
@@ -312,4 +312,4 @@ This repository is built upon [awesome-early-exiting](https://github.com/txsun19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
